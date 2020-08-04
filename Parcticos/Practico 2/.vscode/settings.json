@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/javo/anaconda3/envs/lcapyenv/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=e68373498df9358ae8c5d78852093d9e3cc07fa21520305b",
+}
